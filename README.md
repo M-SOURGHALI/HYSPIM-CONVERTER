@@ -1,6 +1,6 @@
 # HYSPIM-CONVERTER
 
-**HYSPIM-CONVERTER-V.1.0** is a user-friendly application developed in the Remote Sensing Laboratory at the University of Tabriz.  
+**HYSPIM-CONVERTER-V.1.0.1** is a user-friendly application developed in the Remote Sensing Laboratory at the University of Tabriz.  
 It is designed to convert the `*.mat` output format of the HYSPIM Hyperspectral Imager into the standard ENVI format.
 
 ## 🔗 Download
